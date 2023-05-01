@@ -1,0 +1,36 @@
+A Faire :
+
+V 0.1-Composants
+    V 0.1.1- Header
+    V 0.1.2- Header E-commerce
+    V 0.1.3- Footer
+    V 0.1.4- Footer E-commerce
+
+V 0.2-Page Principal
+    V 0.2.1- Page D'accueil
+    V 0.2.2- Page Partenaires
+    V 0.2.3- Page Contact
+
+V 0.3-Auth
+    V 0.3.1- Auth (connexion / inscription)
+
+V 0.4-Partie Forum
+    V 0.4.1- Page Actualité
+    V 0.4.2- Page Article
+    V 0.4.3- Administration Forum
+
+V 0.5-Partie E-commerce
+    V 0.5.1- Page Accueil E-commerce
+    V 0.5.2- Page Produit
+    v 0.5.3- Paiement
+    V 0.5.4- Administration E-commerce
+
+V 1.0-Mise En Production
+
+Versionning :
+
+    Exemple : V 1.2.4.8
+    1 - Version majeure du site
+    2 - Version mineure du site (fonctionnalités Principal)
+    4 - Version mineure du site (sous-fonctionnalités)
+    8 - Version de correctif ou de patch
